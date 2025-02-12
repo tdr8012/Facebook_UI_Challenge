@@ -33,9 +33,4 @@ This is a mobile application developed as part of the **C2_IOS MOBILE DEVELOPMEN
 - **Programming Language**: Swift  
 - **Framework**: UIKit & SwiftUI  
 - **Development Environment**: Xcode  
-- **Core Concepts**:  
-  - Auto Layout & UI Constraints  
-  - View Controllers & Navigation  
-  - API Integration for Authentication & Data Fetching  
-  - Core Data & UserDefaults for Local Storage  
 
